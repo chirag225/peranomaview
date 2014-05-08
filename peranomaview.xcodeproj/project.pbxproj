@@ -84,7 +84,6 @@
 			children = (
 				8E96C73418FDBBC6006ED8A0 /* peranomaview */,
 				8E96C75318FDBBC7006ED8A0 /* peranomaviewTests */,
-				8E96C72D18FDBBC6006ED8A0 /* Frameworks */,
 				8E96C72C18FDBBC6006ED8A0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -107,6 +106,7 @@
 				8E96C74D18FDBBC7006ED8A0 /* XCTest.framework */,
 			);
 			name = Frameworks;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		8E96C73418FDBBC6006ED8A0 /* peranomaview */ = {
@@ -115,6 +115,7 @@
 				8E96C73D18FDBBC6006ED8A0 /* AppDelegate.h */,
 				8E96C73E18FDBBC6006ED8A0 /* AppDelegate.m */,
 				8E96C74018FDBBC6006ED8A0 /* Main.storyboard */,
+				8E96C72D18FDBBC6006ED8A0 /* Frameworks */,
 				8E96C74318FDBBC6006ED8A0 /* ViewController.h */,
 				8E96C74418FDBBC6006ED8A0 /* ViewController.m */,
 				8E96C74618FDBBC6006ED8A0 /* Images.xcassets */,
@@ -460,6 +461,7 @@
 				8E96C75F18FDBBC7006ED8A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8E96C76018FDBBC7006ED8A0 /* Build configuration list for PBXNativeTarget "peranomaviewTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +470,7 @@
 				8E96C76218FDBBC7006ED8A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
